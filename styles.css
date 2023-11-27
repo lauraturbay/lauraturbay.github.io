@@ -1,0 +1,30 @@
+h1{
+
+	color: orchid;
+	font-family: "open sans", sans-serif;
+}
+
+.grid {
+
+display: flex;
+flex-wrap: wrap;
+padding: 4px 4px 4px 4px;
+justify-content: center;
+
+}
+
+.image{
+
+	height:200px;
+	width:auto;
+	padding: 4px 4px 4px 4px;
+}
+
+.column{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+padding: 4px 4px 4px;
+
+
